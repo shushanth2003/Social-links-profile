@@ -1,0 +1,32 @@
+@font-face {
+    font-family:interBold;
+    src: url(./assets/fonts/static/Inter-Bold.ttf);
+}
+@font-face {
+    font-family:interregular;
+    src: url(./assets/fonts/static/Inter-Regular.ttf);
+}
+@font-face {
+    font-family:intersemibold;
+    src: url(./assets/fonts/static/Inter-SemiBold.ttf);
+}
+a:hover {
+    color: black;
+    background-color: greenyellow;
+}
+
+.attribution {
+    color: white;
+    font-size: 12px;
+    text-align: justify;
+    margin: 10px;
+}
+
+.attribution a {
+    color: greenyellow;
+    text-decoration: none;
+}
+
+.attribution a:hover {
+    text-decoration: underline;
+}
